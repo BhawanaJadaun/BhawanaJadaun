@@ -59,39 +59,49 @@
 
 ---
 
+
+
 ### Languages and Tools:
-<div  style="display: flex; flex-wrap: wrap; justify-content: center; gap:0">
-  <a href="https://reactjs.org/" target="_blank">
+
+<div style="
+  display: flex; 
+  flex-wrap: wrap; 
+  justify-content: center; 
+  align-items: center; 
+  gap: 20px; 
+  margin-top: 20px;">
+  <a href="https://reactjs.org/" target="_blank" style="text-decoration: none; background-color: #f0f4f8; padding: 15px; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="90" height="90" />
   </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="95" height="95" />
+  <a href="https://nodejs.org" target="_blank" style="text-decoration: none; background-color: #f0f4f8; padding: 15px; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="90" height="90" />
   </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="95" height="95" />
+  <a href="https://expressjs.com" target="_blank" style="text-decoration: none; background-color: #f0f4f8; padding: 15px; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="90" height="90" />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="95" height="95" />
+  <a href="https://www.mongodb.com/" target="_blank" style="text-decoration: none; background-color: #f0f4f8; padding: 15px; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="90" height="90" />
   </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="95" height="95" />
+  <a href="https://firebase.google.com/" target="_blank" style="text-decoration: none; background-color: #f0f4f8; padding: 15px; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="90" height="90" />
   </a>
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="95" height="95" />
+  <a href="https://aws.amazon.com" target="_blank" style="text-decoration: none; background-color: #f0f4f8; padding: 15px; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="90" height="90" />
   </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="95" height="95" />
+  <a href="https://getbootstrap.com" target="_blank" style="text-decoration: none; background-color: #f0f4f8; padding: 15px; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="90" height="90" />
   </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="95" height="95" />
+  <a href="https://tailwindcss.com/" target="_blank" style="text-decoration: none; background-color: #f0f4f8; padding: 15px; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="90" height="90" />
   </a>
-  <a href="https://www.docker.com/" target="_blank">
+  <a href="https://www.docker.com/" target="_blank" style="text-decoration: none; background-color: #f0f4f8; padding: 15px; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="80" height="80" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none; background-color: #f0f4f8; padding: 15px; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80" />
   </a>
 </div>
+
 
 ---
 
