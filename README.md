@@ -1,6 +1,13 @@
-<h1 align="center" style="font-size: 10rem; font-family: Arial, sans-serif; margin-bottom: 10px;">
-  Hi 👋, I'm Bhawana Jadaun
+
+<h1 align="center">
+  Hi 👋, I'm Bhawana Jadaun  
+  <br/>
+ Full Stack Developer | MERN Stack Specialist
+
 </h1>
+
+
+
 <h3 align="center" style="font-size: 2rem; font-family: 'Courier New', monospace; margin-top: 0;">
   A Passionate Full-Stack Developer Specializing in the MERN Stack
 </h3>
@@ -15,8 +22,7 @@
 </p>
 
 ---
-
-### About Me
+# 💫 About Me:
 
 - 🔭 I’m currently working on **building robust and scalable web applications.**  
 - 💬 Ask me about **React, Node.js, MongoDB, and anything related to full-stack development.**  
@@ -47,14 +53,17 @@
 
 
 ### Connect with Me:
-<div>
-  <button style="padding: 10px 15px; background-color: #0073b1; border: none; border-radius: 5px; display: flex; align-items: center; gap: 10px;">
-    <span><a href="https://linkedin.com/in/bhawanajadaun" target="_blank" style="text-decoration: none;">
-      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="45" height="45" />
-    </a></span>
-  </button>
-</div>
+## 🌐 Socials:
 
+<a href="https://www.linkedin.com/in/bhawana-jadaun-801674307/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" width="150" />
+</a>
+<a href="https://bdportfolio.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white" alt="Portfolio" width="150" />
+</a>
+<a href="mailto:bhawanajadaum0001@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white" alt="Gmail" width="150" />
+</a>
 
 
 ---
@@ -63,51 +72,36 @@
 
 ### Languages and Tools:
 
-<div style="
-  display: flex; 
-  flex-wrap: wrap; 
-  justify-content: center; 
-  align-items: center; 
-  gap: 20px; 
-  margin-top: 20px;">
-  <a href="https://reactjs.org/" target="_blank" style="text-decoration: none; background-color: #f0f4f8; padding: 15px; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="90" height="90" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" style="text-decoration: none; background-color: #f0f4f8; padding: 15px; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="90" height="90" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" style="text-decoration: none; background-color: #f0f4f8; padding: 15px; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="90" height="90" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" style="text-decoration: none; background-color: #f0f4f8; padding: 15px; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="90" height="90" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" style="text-decoration: none; background-color: #f0f4f8; padding: 15px; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="90" height="90" />
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" style="text-decoration: none; background-color: #f0f4f8; padding: 15px; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="90" height="90" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" style="text-decoration: none; background-color: #f0f4f8; padding: 15px; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="90" height="90" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" style="text-decoration: none; background-color: #f0f4f8; padding: 15px; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="90" height="90" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" style="text-decoration: none; background-color: #f0f4f8; padding: 15px; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="80" height="80" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none; background-color: #f0f4f8; padding: 15px; border-radius: 10px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80" />
-  </a>
-</div>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bhawanajadaun&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bhawanajadaun&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhawanajadaun&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+---
+### 🧑‍💻 Recent Projects
+
+1. **Prescripto**  
+   A healthcare management platform where users can book doctor appointments, manage prescriptions, and access health records.
+
+2. **FreshMeal Website**  
+   A responsive website for ordering fresh meals with seamless browsing and intuitive navigation.
+
+3. **Zerodha Kite Dashboard Clone**  
+   A fully responsive, real-time stock trading dashboard built using the MERN stack, Material UI, and Tailwind CSS.
+
+4. **Real Estate Room Rental App**  
+   A modern web app built with React.js, enabling users to list and rent properties, with an admin panel for property management.
+
+---
+
+### ✨ Features Highlight
+- Each project is designed with a **user-first approach** for great experiences.  
+- **MERN stack**, **React.js**, and **Tailwind CSS** are core technologies.
 
 
 ---
 
-### GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhawanajadaun&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=bhawanajadaun&show_icons=true&locale=en" alt="GitHub Stats" style="margin: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhawanajadaun" alt="GitHub Streak" style="margin: 10px;" />
-</div>
+[![](https://visitcount.itsvg.in/api?id=bhawanajadaun&icon=0&color=0)](https://visitcount.itsvg.in)
